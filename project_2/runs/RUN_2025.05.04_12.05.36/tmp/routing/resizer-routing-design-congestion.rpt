@@ -1,0 +1,4 @@
+violation type: Vertical congestion
+	srcs: net:_035_ net:_067_ net:_075_ net:_094_ net:_096_ net:_119_ net:_183_ net:_204_ net:_205_ net:net7 net:net11 net:net17 
+	congestion information: capacity:11 usage:12 overflow:1
+	bbox = ( 82.8, 62.1 ) - ( 89.7, 69) on Layer -

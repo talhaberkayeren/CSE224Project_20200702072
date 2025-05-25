@@ -1,0 +1,10 @@
+- status: 0 - openlane design prep
+  runtime_s: 33.03
+  runtime_ts: 0h0m33s30ms
+---
+- status: routed
+  runtime_s: -1
+  runtime_ts: '-1'
+- status: flow failed
+  runtime_s: 34.0
+  runtime_ts: 0h0m34s0ms
