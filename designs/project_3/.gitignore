@@ -1,0 +1,12 @@
+# OpenLane output and temp files
+runs/
+*.log
+*.def
+*.gds
+*.lef
+*.vcd
+*.vvp
+*.rpt
+*.syn.v
+*.sdf
+__pycache__/
