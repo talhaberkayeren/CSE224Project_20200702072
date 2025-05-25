@@ -1,0 +1,8 @@
+OpenROAD b16bda7e82721d10566ff7e2b68f1ff0be9f9e38 
+Features included (+) or not (-): +Charts +GPU +GUI +Python
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+Top-level design name: ZeroToFiveCounter
+[WARNING]: Some pins weren't matched by the config file
+Those are: ['an[0]', 'an[1]', 'an[2]', 'an[3]', 'an[4]', 'an[5]', 'an[6]', 'an[7]', 'seg[0]', 'seg[1]', 'seg[2]', 'seg[3]', 'seg[4]', 'seg[5]', 'seg[6]']
+Treating unmatched pins as errors. Exiting..
