@@ -1,0 +1,8 @@
+[INFO]: Run Directory: /mnt/c/Users/talha/openlane/designs/project_4/runs/RUN_2025.05.31_00.53.16
+[INFO]: Saving runtime environment...
+[INFO]: Preparing LEF files for the nom corner...
+[ERROR]: during executing: "openroad -exit -no_init -python /mnt/c/Users/talha/openlane/scripts/odbpy/lefutil.py get_metal_layers -o /mnt/c/Users/talha/openlane/designs/project_4/runs/RUN_2025.05.31_00.53.16/tmp/layers.list /home/talha/volare_pdks/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef"
+[ERROR]: Exit code: 1
+[ERROR]: Last 10 lines:
+couldn't execute "openroad": no such file or directory
+

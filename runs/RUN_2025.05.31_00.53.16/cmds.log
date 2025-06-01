@@ -1,0 +1,2 @@
+Sat May 31 00:53:30 +03 2025 - Executing "{openroad -exit -no_init -python /mnt/c/Users/talha/openlane/scripts/odbpy/lefutil.py get_metal_layers -o /mnt/c/Users/talha/openlane/designs/project_4/runs/RUN_2025.05.31_00.53.16/tmp/layers.list /home/talha/volare_pdks/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef}"
+
