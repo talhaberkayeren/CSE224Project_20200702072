@@ -1,0 +1,19 @@
+Design Name: ZeroToFiveCounter
+Run Directory: /openlane/designs/project_3/runs/RUN_2025.05.25_14.05.40
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/project_3/runs/RUN_2025.05.25_14.05.40/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/project_3/runs/RUN_2025.05.25_14.05.40/logs/signoff/37-ZeroToFiveCounter.lef.lvs.log
+Number of nets: 237                        |Number of nets: 237                        
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/project_3/runs/RUN_2025.05.25_14.05.40/logs/signoff/40-arc.log
+Pin violations: 1
+Net violations: 1

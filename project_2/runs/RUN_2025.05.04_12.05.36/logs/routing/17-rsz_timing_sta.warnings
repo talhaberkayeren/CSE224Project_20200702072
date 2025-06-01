@@ -1,0 +1,24 @@
+[WARNING STA-0366] port '__VIRTUAL_CLK__' not found.
+[WARNING STA-0419] transition time can not be specified for virtual clocks.
+[WARNING STA-0450] virtual clock __VIRTUAL_CLK__ can not be propagated.
+[WARNING GRT-0026] Missing route to pin _325_/A.
+[WARNING GRT-0026] Missing route to pin _325_/B.
+[WARNING GRT-0026] Missing route to pin _325_/C.
+[WARNING GRT-0026] Missing route to pin _325_/X.
+[WARNING GRT-0026] Missing route to pin _382_/A.
+[WARNING GRT-0026] Missing route to pin _352_/B.
+[WARNING GRT-0026] Missing route to pin _354_/X.
+[WARNING GRT-0026] Missing route to pin _355_/Y.
+[WARNING GRT-0026] Missing route to pin _470_/X.
+[WARNING GRT-0026] Missing route to pin _382_/C.
+[WARNING GRT-0026] Missing route to pin _285_/A3.
+[WARNING GRT-0026] Missing route to pin _285_/A1.
+[WARNING GRT-0026] Missing route to pin _285_/A2.
+[WARNING GRT-0026] Missing route to pin _277_/X.
+[WARNING GRT-0026] Missing route to pin _285_/B1.
+[WARNING GRT-0026] Missing route to pin _285_/X.
+[WARNING GRT-0026] Missing route to pin _374_/A.
+[WARNING GRT-0026] Missing route to pin clone1/A.
+[WARNING GRT-0026] Missing route to pin rebuffer11/X.
+[WARNING GRT-0026] Missing route to pin _354_/A.
+[WARNING] Did not save OpenROAD database!
