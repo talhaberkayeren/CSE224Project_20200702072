@@ -1,0 +1,42 @@
+
+70. Printing statistics.
+
+=== cpu_top ===
+
+   Number of wires:                 77
+   Number of wire bits:             91
+   Number of public wires:          13
+   Number of public wire bits:      27
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 89
+     sky130_fd_sc_hd__a21o_2         2
+     sky130_fd_sc_hd__a21oi_2        6
+     sky130_fd_sc_hd__a22o_2         1
+     sky130_fd_sc_hd__and2_2         1
+     sky130_fd_sc_hd__and2b_2        1
+     sky130_fd_sc_hd__and3_2         4
+     sky130_fd_sc_hd__and3b_2        1
+     sky130_fd_sc_hd__buf_1          3
+     sky130_fd_sc_hd__conb_1         1
+     sky130_fd_sc_hd__dfxtp_2       24
+     sky130_fd_sc_hd__inv_2          7
+     sky130_fd_sc_hd__mux2_2         2
+     sky130_fd_sc_hd__nand2_2       10
+     sky130_fd_sc_hd__nor2_2         1
+     sky130_fd_sc_hd__nor3_2         1
+     sky130_fd_sc_hd__o211a_2        1
+     sky130_fd_sc_hd__o21a_2         1
+     sky130_fd_sc_hd__o21ai_2        3
+     sky130_fd_sc_hd__o21ba_2        2
+     sky130_fd_sc_hd__o21bai_2       1
+     sky130_fd_sc_hd__o22a_2         5
+     sky130_fd_sc_hd__o31ai_2        1
+     sky130_fd_sc_hd__o32a_2         2
+     sky130_fd_sc_hd__or2_2          6
+     sky130_fd_sc_hd__or3_2          1
+     sky130_fd_sc_hd__xnor2_2        1
+
+   Chip area for module '\cpu_top': 1012.220800
+

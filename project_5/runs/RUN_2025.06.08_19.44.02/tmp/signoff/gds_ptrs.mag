@@ -1,0 +1,6 @@
+<< properties >>
+string FIXED_BBOX 0 0 12963 15107
+string GDS_END 518912
+string GDS_FILE /openlane/designs/project_5/runs/RUN_2025.06.08_19.44.02/results/signoff/cpu_top.magic.gds
+string GDS_START 209410
+<< end >>

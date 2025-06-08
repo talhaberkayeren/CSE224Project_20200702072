@@ -1,0 +1,4 @@
+%Error: /openlane/designs/project_5/src/alu.v:1:1: `timescale timeprecision syntax error: 'lps'
+    1 | `timescale 1ns / lps
+      | ^~~~~~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
