@@ -1,0 +1,10 @@
+%Warning-UNUSEDSIGNAL: /openlane/designs/project_6/src/TopModule.v:11:12: Signal is not used: 'opcode'
+                                                                        : ... note: In instance 'TopModule'
+   11 | wire [5:0] opcode;
+      |            ^~~~~~
+                       ... For warning description see https://verilator.org/warn/UNUSEDSIGNAL?v=5.018
+                       ... Use "/* verilator lint_off UNUSEDSIGNAL */" and lint_on around source to disable this message.
+%Warning-UNUSEDSIGNAL: /openlane/designs/project_6/src/ProgramCounter.v:5:18: Bits of signal are not used: 'imm'[15:5]
+                                                                            : ... note: In instance 'TopModule.PCU'
+    5 |     input [15:0] imm,
+      |                  ^~~

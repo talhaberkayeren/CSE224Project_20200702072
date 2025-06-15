@@ -1,0 +1,34 @@
+[WARNING GRT-0026] Missing route to pin rebuffer38/A.
+[WARNING GRT-0026] Missing route to pin _4644_/Q.
+[WARNING GRT-0026] Missing route to pin _2387_/A1.
+[WARNING GRT-0026] Missing route to pin _2152_/Y.
+[WARNING GRT-0026] Missing route to pin _2387_/B1.
+[WARNING GRT-0026] Missing route to pin rebuffer55/A.
+[WARNING GRT-0026] Missing route to pin rebuffer28/A.
+[WARNING GRT-0026] Missing route to pin _2822_/A1.
+[WARNING GRT-0026] Missing route to pin _2224_/X.
+[WARNING GRT-0026] Missing route to pin _2679_/A2.
+[WARNING GRT-0026] Missing route to pin _2357_/A1_N.
+[WARNING GRT-0026] Missing route to pin _2387_/A2.
+[WARNING GRT-0026] Missing route to pin _2282_/X.
+[WARNING GRT-0026] Missing route to pin _2333_/X.
+[WARNING GRT-0026] Missing route to pin _2357_/B1.
+[WARNING GRT-0026] Missing route to pin _2357_/B2.
+[WARNING GRT-0026] Missing route to pin _2357_/X.
+[WARNING GRT-0026] Missing route to pin _2373_/A2.
+[WARNING GRT-0026] Missing route to pin _2941_/A.
+[WARNING GRT-0026] Missing route to pin _2381_/X.
+[WARNING GRT-0026] Missing route to pin _2470_/A2.
+[WARNING GRT-0026] Missing route to pin _2646_/B1.
+[WARNING GRT-0026] Missing route to pin _2701_/A2.
+[WARNING GRT-0026] Missing route to pin _3057_/A2.
+[WARNING GRT-0026] Missing route to pin _3057_/A1.
+[WARNING GRT-0026] Missing route to pin _3500_/A2.
+[WARNING GRT-0026] Missing route to pin _3500_/A1.
+[WARNING GRT-0026] Missing route to pin _3035_/X.
+[WARNING GRT-0026] Missing route to pin _4479_/CLK.
+[WARNING GRT-0026] Missing route to pin _4644_/CLK.
+[WARNING GRT-0026] Missing route to pin rebuffer31/A.
+Warning: There are 2 input ports missing set_input_delay.
+Warning: There are 32 unconstrained endpoints.
+[WARNING] Did not save OpenROAD database!

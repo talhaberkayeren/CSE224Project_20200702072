@@ -1,0 +1,145 @@
+- status: 0 - openlane design prep
+  runtime_s: 2.0
+  runtime_ts: 0h0m1s999ms
+- status: 1 - synthesis - yosys
+  runtime_s: 5.08
+  runtime_ts: 0h0m5s84ms
+- status: 2 - sta - openroad
+  runtime_s: 0.47
+  runtime_ts: 0h0m0s467ms
+- status: 3 - floorplan initialization - openroad
+  runtime_s: 0.46
+  runtime_ts: 0h0m0s464ms
+- status: 4 - io_place - openlane
+  runtime_s: 0.35
+  runtime_ts: 0h0m0s346ms
+- status: 5 - tap/decap insertion - openroad
+  runtime_s: 0.6
+  runtime_ts: 0h0m0s604ms
+- status: 6 - pdn generation - openroad
+  runtime_s: 3.24
+  runtime_ts: 0h0m3s240ms
+- status: 7 - global placement - openroad
+  runtime_s: 5.74
+  runtime_ts: 0h0m5s735ms
+- status: 8 - sta - openroad
+  runtime_s: 0.87
+  runtime_ts: 0h0m0s869ms
+- status: 9 - resizer design optimizations - openroad
+  runtime_s: 2.78
+  runtime_ts: 0h0m2s780ms
+- status: 10 - detailed placement - openroad
+  runtime_s: 0.77
+  runtime_ts: 0h0m0s769ms
+- status: 11 - sta - openroad
+  runtime_s: 0.86
+  runtime_ts: 0h0m0s861ms
+- status: 12 - cts - openroad
+  runtime_s: 5.19
+  runtime_ts: 0h0m5s192ms
+- status: 13 - sta - openroad
+  runtime_s: 1.02
+  runtime_ts: 0h0m1s16ms
+- status: 14 - resizer timing optimizations - openroad
+  runtime_s: 13.86
+  runtime_ts: 0h0m13s859ms
+- status: 15 - resizer design optimizations - openroad
+  runtime_s: 3.0
+  runtime_ts: 0h0m2s996ms
+- status: 16 - sta - openroad
+  runtime_s: 1.17
+  runtime_ts: 0h0m1s173ms
+- status: 17 - resizer timing optimizations - openroad
+  runtime_s: 9.54
+  runtime_ts: 0h0m9s538ms
+- status: 18 - sta - openroad
+  runtime_s: 1.17
+  runtime_ts: 0h0m1s169ms
+- status: 20 - detailed placement - openroad
+  runtime_s: 0.82
+  runtime_ts: 0h0m0s823ms
+- status: 20 - io diode insertion - openlane
+  runtime_s: 0.87
+  runtime_ts: 0h0m0s869ms
+- status: 22 - detailed placement - openroad
+  runtime_s: 0.84
+  runtime_ts: 0h0m0s840ms
+- status: 22 - heuristic diode insertion - openlane
+  runtime_s: 0.89
+  runtime_ts: 0h0m0s886ms
+- status: 24 - write verilog - openroad
+  runtime_s: 0.49
+  runtime_ts: 0h0m0s489ms
+- status: 25 - sta - openroad
+  runtime_s: 0.92
+  runtime_ts: 0h0m0s918ms
+- status: 25 - global routing - openroad
+  runtime_s: 0.92
+  runtime_ts: 0h0m0s918ms
+- status: 26 - fill insertion - openroad
+  runtime_s: 2.42
+  runtime_ts: 0h0m2s422ms
+- status: 27 - detailed_routing - openroad
+  runtime_s: 63.41
+  runtime_ts: 0h1m3s411ms
+- status: 28 - wire lengths - openlane
+  runtime_s: 1.47
+  runtime_ts: 0h0m1s467ms
+- status: 29 - parasitics extraction - openroad
+  runtime_s: 2.31
+  runtime_ts: 0h0m2s311ms
+- status: 30 - sta - openroad
+  runtime_s: 5.73
+  runtime_ts: 0h0m5s732ms
+- status: 31 - parasitics extraction - openroad
+  runtime_s: 2.38
+  runtime_ts: 0h0m2s382ms
+- status: 32 - sta - openroad
+  runtime_s: 5.93
+  runtime_ts: 0h0m5s926ms
+- status: 33 - parasitics extraction - openroad
+  runtime_s: 2.33
+  runtime_ts: 0h0m2s330ms
+- status: 34 - sta - openroad
+  runtime_s: 5.05
+  runtime_ts: 0h0m5s49ms
+- status: 35 - ir drop report - openroad
+  runtime_s: 15.83
+  runtime_ts: 0h0m15s827ms
+- status: 36 - gdsii - magic
+  runtime_s: 14.33
+  runtime_ts: 0h0m14s333ms
+- status: 36 - lef - magic
+  runtime_s: 53.82
+  runtime_ts: 0h0m53s817ms
+- status: 37 - gdsii - klayout
+  runtime_s: 3.38
+  runtime_ts: 0h0m3s383ms
+- status: 38 - xor - klayout
+  runtime_s: 57.28
+  runtime_ts: 0h0m57s281ms
+- status: 39 - spice extraction - magic
+  runtime_s: 53.89
+  runtime_ts: 0h0m53s887ms
+- status: 41 - write verilog - openroad
+  runtime_s: 1.96
+  runtime_ts: 0h0m1s960ms
+- status: 41 - write powered verilog - openlane
+  runtime_s: 2.02
+  runtime_ts: 0h0m2s17ms
+- status: 42 - lvs - netgen
+  runtime_s: 25.16
+  runtime_ts: 0h0m25s158ms
+- status: 43 - drc - magic
+  runtime_s: 305.37
+  runtime_ts: 0h5m5s370ms
+- status: 45 - antenna check - openroad
+  runtime_s: 2.84
+  runtime_ts: 0h0m2s838ms
+---
+- status: routed
+  runtime_s: 132.0
+  runtime_ts: 0h2m12s0ms
+- status: flow completed
+  runtime_s: 954.0
+  runtime_ts: 0h15m54s0ms
