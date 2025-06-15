@@ -3,3 +3,5 @@ project_6/runs/*/results/final/mag/
 project_6/runs/*/results/signoff/
 project_6/runs/*/results/routing/
 project_6/runs/*/tmp/
+!project_6/runs/**/TopModule.drc.mag
+!project_6/runs/**/TopModule.mag
