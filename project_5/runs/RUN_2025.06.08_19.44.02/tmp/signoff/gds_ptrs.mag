@@ -1,6 +1,3 @@
-<< properties >>
-string FIXED_BBOX 0 0 12963 15107
-string GDS_END 518912
-string GDS_FILE /openlane/designs/project_5/runs/RUN_2025.06.08_19.44.02/results/signoff/cpu_top.magic.gds
-string GDS_START 209410
-<< end >>
+version https://git-lfs.github.com/spec/v1
+oid sha256:84ece24332a936eaca8f3f4929990d6534ea0c4adbe2afed305726246f3b39a2
+size 214

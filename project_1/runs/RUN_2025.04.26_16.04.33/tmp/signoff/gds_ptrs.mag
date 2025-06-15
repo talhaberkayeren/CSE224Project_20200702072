@@ -1,6 +1,3 @@
-<< properties >>
-string FIXED_BBOX 0 0 5891 8035
-string GDS_END 169888
-string GDS_FILE /openlane/designs/first_project/runs/RUN_2025.04.26_16.04.33/results/signoff/first_project.magic.gds
-string GDS_START 92324
-<< end >>
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f7143220bf98f79ba2441fda946d7faee52b205e5e02a5b5db75e4f40bd6637
+size 221
