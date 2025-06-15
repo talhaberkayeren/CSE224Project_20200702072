@@ -1,0 +1,5 @@
+# Çok büyük dosyalar – GitHub sınırlarını aşanlar
+project_6/runs/*/results/final/mag/
+project_6/runs/*/results/signoff/
+project_6/runs/*/results/routing/
+project_6/runs/*/tmp/
